@@ -83,6 +83,7 @@ form > .form-row > input {
     border: none;
     border-bottom: 2px solid #ccc;
 }
+
 form > .form-row > button {
     float: left;
     padding: 10px;
